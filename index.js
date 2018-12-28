@@ -1,5 +1,5 @@
 
-var obj = { foo: 'bar' }
+var recipes = { foo: 'bar' }
  
 var newObj = Object.assign({}, obj)
  
